@@ -2,7 +2,7 @@
 
 A Corporation that create, manage and host yours bot
 
-## Actually supported : 
+## Actually supported :
 
 - [x] Discord
 - [ ] Instagram
